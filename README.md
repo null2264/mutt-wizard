@@ -24,11 +24,6 @@ cd mutt-wizard
 sudo make install
 ```
 
-Then add this line to .profile (or .zshprofile/.bashprofile)
-```
-alias mbsync="mbsync -c "$XDG_CONFIG_HOME"/isync/mbsyncrc"
-```
-
 User of Arch-based distros can also install mutt-wizard from the AUR as [mutt-wizard-git](https://aur.archlinux.org/packages/mutt-wizard-git/).
 
 The mutt-wizard is run with the command `mw`. It also installs the `mailsync` command. Once everything is setup, you'll use `neomutt` to access your mail.
