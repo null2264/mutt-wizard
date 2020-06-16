@@ -1,4 +1,6 @@
-# mutt-wizard
+# mutt-wizard-zi
+
+mutt-wizard-zi is a fork of Luke Smith's mutt-wizard with personal settings
 
 Get this great stuff without effort:
 
