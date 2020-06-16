@@ -52,7 +52,7 @@ mbsync_profile="IMAPStore $title-remote
 Host $imap
 Port $iport
 User $login
-PassCmd \"pass mutt-wizard-$title\"
+PassCmd \"pass mutt/mutt-wizard-$title\"
 AuthMechs LOGIN
 SSLType $ssltype
 CertificateFile $sslcert
