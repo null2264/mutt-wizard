@@ -45,7 +45,7 @@ host $smtp
 port $sport
 from $fulladdr
 user $login
-passwordeval \"pass mutt-wizard-$title\"
+passwordeval \"pass mutt/mutt-wizard-$title\"
 $starttlsoff
 "
 mbsync_profile="IMAPStore $title-remote
@@ -111,7 +111,7 @@ set folder = \"imaps://$login@$imap:$iport\"
 set imap_user = \"$login\"
 set header_cache = $cachedir/$title/headers
 set message_cachedir = $cachedir/$title/bodies
-set imap_pass = \"\`pass mutt-wizard-$title\`\"
+set imap_pass = \"\`pass mutt/mutt-wizard-$title\`\"
 
 set crypt_autosign = yes
 set crypt_opportunistic_encrypt = yes
