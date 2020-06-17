@@ -26,7 +26,7 @@ cd mutt-wizard
 sudo make install
 ```
 
-User of Arch-based distros can also install mutt-wizard from the AUR as [mutt-wizard-git](https://aur.archlinux.org/packages/mutt-wizard-git/).
+User of Arch-based distros can also install mutt-wizard from the AUR as [mutt-wizard-zi-git](https://aur.archlinux.org/packages/mutt-wizard-zi-git/).
 
 The mutt-wizard is run with the command `mw`. It also installs the `mailsync` command. Once everything is setup, you'll use `neomutt` to access your mail.
 
