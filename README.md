@@ -21,7 +21,7 @@ Specifically, this wizard:
 ## Install and Use
 
 ```
-git clone https://github.com/LukeSmithxyz/mutt-wizard
+git clone https://github.com/null2264/mutt-wizard-zi
 cd mutt-wizard
 sudo make install
 ```
