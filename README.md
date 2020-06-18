@@ -22,7 +22,7 @@ Specifically, this wizard:
 
 ```
 git clone https://github.com/null2264/mutt-wizard-zi
-cd mutt-wizard
+cd mutt-wizard-zi
 sudo make install
 ```
 
